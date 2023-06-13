@@ -21,7 +21,7 @@
   <img align="center" alt="Deigela-Firebase" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </div>
 
-##
+
 
 <div> 
   <a href = "mailto:deigelalima20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
