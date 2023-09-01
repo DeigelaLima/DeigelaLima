@@ -28,5 +28,5 @@
   
   <!--Cobrinha-->
  ![Snake animation](https://github.com/DeigelaLima/DeigelaLima/blob/output/github-contribution-grid-snake.svg)
- 
+ ![Snake animation](https://github.com/DeigelaLima/blob/output/github-contribution-grid-snake.svg)
 </div>
